@@ -61,12 +61,5 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=YashBhalodiya&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=YashBhalodiya&show_icons=true&locale=en&layout=compact" alt="YashBhalodiya" /></p>
 ###
