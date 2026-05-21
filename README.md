@@ -85,8 +85,3 @@ Right now, I’m focused on improving my fundamentals and getting better at buil
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"/>
 
 </div>
-
-###
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=YashBhalodiya&show_icons=true&locale=en&layout=compact" alt="YashBhalodiya" /></p>
-###
